@@ -1,0 +1,135 @@
+<svg class="light" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 748 402" width="748" height="402" id="m1b3cc0__root" data-diagram-type="ascii">
+  <style data-mercat-style="universal">.mercat text{font-family:'Google Sans',Roboto,Arial,sans-serif;fill:var(--m-text);dominant-baseline:central}.mercat .m-edge .m-path{fill:none;stroke:var(--m-line);stroke-width:1.5px}.mercat .m-note .m-label{fill:var(--m-note-text)}.mercat .t-label{font-size:13px;font-weight:500}</style>
+  <style data-mercat-style="theme-light">#m1b3cc0__root{--m-text:#1f1f1f;--m-line:#545454;--m-note-text:#1f1f1f}</style>
+  <style data-mercat-style="theme-dark">#m1b3cc0__root.dark{--m-text:#e3e3e3;--m-line:#bfbfbf;--m-note-text:#e3e3e3}</style>
+  <style data-mercat-style="type">#m1b3cc0__root .bus-line{fill:none;stroke:var(--m-line);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:round}#m1b3cc0__root .annotation-text{fill:var(--m-text);font-size:13px;font-weight:500;white-space:pre}</style>
+  <style data-mercat-style="diagram">#m1b3cc0__root text{font-family:Google Sans Mono, Roboto Mono, monospace}</style>
+  <g class="mercat mercat-ascii">
+    <g class="m-edge" id="m1b3cc0__edge__pt__a1__0" data-role="connector">
+      <line x1="19.25" y1="47" x2="36.25" y2="47" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a2__0" data-role="connector">
+      <line x1="19.25" y1="69" x2="36.25" y2="69" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a3__0" data-role="connector">
+      <line x1="19.25" y1="91" x2="36.25" y2="91" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a4__0" data-role="connector">
+      <line x1="19.25" y1="113" x2="36.25" y2="113" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a6__0" data-role="connector">
+      <line x1="19.25" y1="135" x2="36.25" y2="135" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a7__0" data-role="connector">
+      <line x1="53.25" y1="157" x2="70.25" y2="157" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a9__0" data-role="connector">
+      <line x1="87.25" y1="179" x2="104.25" y2="179" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a10__0" data-role="connector">
+      <line x1="87.25" y1="201" x2="104.25" y2="201" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a11__0" data-role="connector">
+      <line x1="87.25" y1="223" x2="104.25" y2="223" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a12__0" data-role="connector">
+      <line x1="87.25" y1="245" x2="104.25" y2="245" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a13__0" data-role="connector">
+      <line x1="53.25" y1="267" x2="70.25" y2="267" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a15__0" data-role="connector">
+      <line x1="87.25" y1="289" x2="104.25" y2="289" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a17__0" data-role="connector">
+      <line x1="87.25" y1="311" x2="104.25" y2="311" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a19__0" data-role="connector">
+      <line x1="87.25" y1="333" x2="104.25" y2="333" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a20__0" data-role="connector">
+      <line x1="87.25" y1="355" x2="104.25" y2="355" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__a21__0" data-role="connector">
+      <line x1="87.25" y1="377" x2="104.25" y2="377" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__pt__0" data-role="connector">
+      <line x1="19.25" y1="47" x2="19.25" y2="377" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__pt__1" data-role="connector">
+      <line x1="53.25" y1="157" x2="53.25" y2="267" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__pt__2" data-role="connector">
+      <line x1="87.25" y1="179" x2="87.25" y2="245" class="m-path bus-line"/>
+    </g>
+    <g class="m-edge" id="m1b3cc0__edge__pt__pt__3" data-role="connector">
+      <line x1="87.25" y1="289" x2="87.25" y2="377" class="m-path bus-line"/>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a0" data-role="annotation">
+      <text x="15" y="25" class="m-label t-label annotation-text" text-anchor="start">entec-platform/</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a1" data-role="annotation">
+      <text x="49" y="47" class="m-label t-label annotation-text" text-anchor="start">.env.example</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a2" data-role="annotation">
+      <text x="49" y="69" class="m-label t-label annotation-text" text-anchor="start">.gitignore</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a3" data-role="annotation">
+      <text x="49" y="91" class="m-label t-label annotation-text" text-anchor="start">README.md</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a4" data-role="annotation">
+      <text x="49" y="113" class="m-label t-label annotation-text" text-anchor="start">package.json</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a5" data-role="annotation">
+      <text x="304" y="113" class="m-label t-label annotation-text" text-anchor="start"># Workspace helper scripts</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a6" data-role="annotation">
+      <text x="49" y="135" class="m-label t-label annotation-text" text-anchor="start">packages/</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a7" data-role="annotation">
+      <text x="83" y="157" class="m-label t-label annotation-text" text-anchor="start">umbrella/</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a8" data-role="annotation">
+      <text x="304" y="157" class="m-label t-label annotation-text" text-anchor="start"># From icealys68654-tech/Entec</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a9" data-role="annotation">
+      <text x="117" y="179" class="m-label t-label annotation-text" text-anchor="start">public/</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a10" data-role="annotation">
+      <text x="117" y="201" class="m-label t-label annotation-text" text-anchor="start">src/</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a11" data-role="annotation">
+      <text x="117" y="223" class="m-label t-label annotation-text" text-anchor="start">package.json</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a12" data-role="annotation">
+      <text x="117" y="245" class="m-label t-label annotation-text" text-anchor="start">tsconfig.json</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a13" data-role="annotation">
+      <text x="83" y="267" class="m-label t-label annotation-text" text-anchor="start">tagengine/</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a14" data-role="annotation">
+      <text x="304" y="267" class="m-label t-label annotation-text" text-anchor="start"># From icealys68654-tech/TagEngine</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a15" data-role="annotation">
+      <text x="117" y="289" class="m-label t-label annotation-text" text-anchor="start">public/</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a16" data-role="annotation">
+      <text x="304" y="289" class="m-label t-label annotation-text" text-anchor="start"># index.html, app.js, styles.css (if served standalone)</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a17" data-role="annotation">
+      <text x="117" y="311" class="m-label t-label annotation-text" text-anchor="start">src/</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a18" data-role="annotation">
+      <text x="304" y="311" class="m-label t-label annotation-text" text-anchor="start"># server.ts, cli.ts, snapshot-manifest-parser.ts, etc.</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a19" data-role="annotation">
+      <text x="117" y="333" class="m-label t-label annotation-text" text-anchor="start">tests/</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a20" data-role="annotation">
+      <text x="117" y="355" class="m-label t-label annotation-text" text-anchor="start">package.json</text>
+    </g>
+    <g class="m-node m-note" id="m1b3cc0__note__a21" data-role="annotation">
+      <text x="117" y="377" class="m-label t-label annotation-text" text-anchor="start">tsconfig.json</text>
+    </g>
+  </g>
+</svg>
